@@ -6,7 +6,7 @@
   <div class="container position-relative">
     <div class="row d-flex justify-content-center">
       <div class="col-lg-6 text-center">
-        <h2>私たち</h2>
+        <h2>私は</h2>
         <p>自由にテンプレートから選んで、お客様のビジネスに合わせてホームページを作成いたします。安価で迅速に対応いたしますので、お気軽にご相談ください。.</p>
 
         <a class="cta-btn" href="{{route('contact')}}">お問い合わせ</a>
@@ -22,46 +22,39 @@
 
     <div class="row gy-4 justify-content-center">
       <div class="col-lg-4">
-        <img src="{{'img/profile-img.jpg'}}" class="img-fluid" alt="">
+        <img src="{{'img/profile.jpg'}}" class="img-fluid" alt="">
       </div>
       <div class="col-lg-5 content">
-        <h2>Professional Photographer from New York</h2>
+        <h2>開発エンジニア</h2>
         <p class="fst-italic py-3">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-          dolore
-          magna aliqua.
+          日本で働いているモンゴル出身のエンジニア
         </p>
         <div class="row">
           <div class="col-lg-6">
             <ul>
-              <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>1 May 1995</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+123 456 7890</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>New York, USA</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>生年月日:</strong> <span>1989年5月25日</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>HP:</strong> <span>www.tume.jp</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>電話番号:</strong> <span>080-1494-7801</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>住まい:</strong> <span>東京都</span></li>
             </ul>
           </div>
           <div class="col-lg-6">
             <ul>
-              <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>PhEmailone:</strong> <span>email@example.com</span>
+              <li><i class="bi bi-chevron-right"></i> <strong>年齢:</strong> <span>35</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>メール:</strong> <span>tmkee0525@gmail.com</span>
               </li>
-              <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>フリーランス:</strong> <span>可能</span></li>
             </ul>
           </div>
         </div>
         <p class="py-3">
-          Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et
-          ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-          Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque.
-          Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
+          日本で働いている現在7年間になりました。日本の素敵ところ大好きで、ずっと日本で住みたいと思っています。
+          最初はインフラエンジニアで働いていましたが、phpフレームワークlaravelにはまってしまって現在laravelで簡単な登録システムなど
+          勉強しながら開発したいます。
         </p>
         <p class="m-0">
-          Recusandae est praesentium consequatur eos voluptatem. Vitae dolores aliquam itaque odio nihil. Neque ut
-          neque ut quae voluptas. Maxime corporis aut ut ipsum consequatur. Repudiandae sunt sequi minus qui et.
-          Doloribus molestiae officiis.
-          Soluta eligendi fugiat omnis enim. Numquam alias sint possimus eveniet ad. Ratione in earum eum magni
-          totam.
+          お客様がテンプレート選んで意見に合わせてホームページ作成することが自分のできることなので、頑張っていきます。
+          よろしくお願いいたします。
         </p>
       </div>
     </div>
@@ -74,13 +67,14 @@
   <div class="container">
 
     <div class="section-header">
-      <h2>Testimonials</h2>
-      <p>What they are saying</p>
+      <h2>実績</h2>
+      <p>
+        お客様の声
+        </p>
     </div>
 
     <div class="slides-3 swiper">
       <div class="swiper-wrapper">
-
         <div class="swiper-slide">
           <div class="testimonial-item">
             <div class="stars">
@@ -88,93 +82,18 @@
                 class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
             </div>
             <p>
-              Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium
-              quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+              素敵なホームページ作成していただきありがとうございました。
             </p>
             <div class="profile mt-auto">
               <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-              <h3>Saul Goodman</h3>
-              <h4>Ceo &amp; Founder</h4>
+              <h3>tsogtbayar</h3>
+              <h4>取締役 &amp; 社長</h4>
             </div>
           </div>
         </div><!-- End testimonial item -->
-
-        <div class="swiper-slide">
-          <div class="testimonial-item">
-            <div class="stars">
-              <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-            </div>
-            <p>
-              Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis
-              quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-            </p>
-            <div class="profile mt-auto">
-              <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-              <h3>Sara Wilsson</h3>
-              <h4>Designer</h4>
-            </div>
-          </div>
-        </div><!-- End testimonial item -->
-
-        <div class="swiper-slide">
-          <div class="testimonial-item">
-            <div class="stars">
-              <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-            </div>
-            <p>
-              Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim
-              tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-            </p>
-            <div class="profile mt-auto">
-              <img src="{{'img/testimonials/testimonials-3.jpg" class="testimonial-img" alt=""'}}>
-              <h3>Jena Karlis</h3>
-              <h4>Store Owner</h4>
-            </div>
-          </div>
-        </div><!-- End testimonial item -->
-
-        <div class="swiper-slide">
-          <div class="testimonial-item">
-            <div class="stars">
-              <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-            </div>
-            <p>
-              Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit
-              minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-            </p>
-            <div class="profile mt-auto">
-              <img src="{{'img/testimonials/testimonials-4.jpg'}}" class="testimonial-img" alt="">
-              <h3>Matt Brandon</h3>
-              <h4>Freelancer</h4>
-            </div>
-          </div>
-        </div><!-- End testimonial item -->
-
-        <div class="swiper-slide">
-          <div class="testimonial-item">
-            <div class="stars">
-              <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-            </div>
-            <p>
-              Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa
-              labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-            </p>
-            <div class="profile mt-auto">
-              <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-              <h3>John Larson</h3>
-              <h4>Entrepreneur</h4>
-            </div>
-          </div>
-        </div><!-- End testimonial item -->
-
       </div>
       <div class="swiper-pagination"></div>
     </div>
-
   </div>
 </section><!-- End Testimonials Section -->
 

@@ -36,7 +36,7 @@
           <i class="bi bi-envelope flex-shrink-0"></i>
           <div>
             <h4>電子メール:</h4>
-            <p>web@mtche.jp</p>
+            <p>tmkee0525@gmail.com</p>
           </div>
         </div>
       </div><!-- End Info Item -->
@@ -46,7 +46,7 @@
           <i class="bi bi-phone flex-shrink-0"></i>
           <div>
             <h4>電話番号:</h4>
-            <p>080-6102-3347
+            <p>080-1494-7801
             </p>
           </div>
         </div>

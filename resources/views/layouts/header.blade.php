@@ -3,7 +3,7 @@
     <div class="container-fluid d-flex align-items-center justify-content-between">
       <a href="{{ route('index') }}" class="logo d-flex align-items-center  me-auto me-lg-0">
         <img src="{{ asset('img/gallery/logo.png') }}" alt="">
-        <h1>株式会社MTCHE</h1>
+        <h1>Tumee</h1>
       </a>
 
       <nav id="navbar" class="navbar">
@@ -34,10 +34,10 @@
       </nav><!-- .navbar -->
 
       <div class="header-social-links">
-        <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+        <a href="#" class="twitter" target="_blank"><i class="bi bi-twitter"></i></a>
+        <a href="https://www.facebook.com/gt.tumee/" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
+        <a href="#" class="instagram" target="_blank"><i class="bi bi-instagram"></i></a>
+        <a href="https://github.com/gttumee" target="_blank" class="instagram"><i class="bi bi-git"></i></a>
       </div>
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>

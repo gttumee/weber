@@ -23,7 +23,7 @@
             <img src="{{ asset('img/gallery/uando.jpg') }}" class="img-fluid" alt="">
             <div class="gallery-links d-flex align-items-center justify-content-center">
               <a href="{{ asset('img/gallery/uando.jpg') }}" title="Gallery 1" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
-              <a href="gallery-single.html" class="details-link"><i class="bi bi-link-45deg">詳細見る</i></a>
+              <a href="{{route('detail')}}" class="details-link"><i class="bi bi-link-45deg">詳細見る</i></a>
             </div>
           </div>
           <a href="{{ route('contact') }}" class="btn-get-started">会社</a>

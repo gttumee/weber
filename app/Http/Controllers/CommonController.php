@@ -22,7 +22,7 @@ class CommonController extends Controller
 
     
     public function detail(){
-        return view('detail');
+        return view('view');
     }
 
     
